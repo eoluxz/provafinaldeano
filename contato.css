@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+form {
+    margin: 0 300px 0 300px;
+    justify-content: space-between;
+    padding: 10px;
+    padding-top: 100px;
+}
